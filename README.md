@@ -10,6 +10,10 @@
 
 ## How It's Made:
 
+The Cardiovascular Risk Assessment project was a capstone-type project completed after receiving a certification in SAS Programming. After reviewing multiple datasets on Kaggle, I chose a dataset that contained statistics concerning the risk factors that lead to cardiovascular disease. This dataset was chosen as it had a high usability score relative to completeness, credibility, compatibility, and contained the most up-to-date cardiovascular information to analyze SAS programming. 
+
+Once the datasets were downloaded in Excel, I imported the dataset into SAS Studio and created a library using a libname statement to connect to the Excel workbook. My task was then to write syntax through procedures, statements, functions, and steps that would represent the dataset accurately to explore the correlation between various cardiovascular disease risk factors (e.g., blood pressure, fasting blood sugar, cholesterol, and pain). To culminate, I created graphics to provide a visual representation for external stakeholders.
+
 **Tech used:** SAS, Excel
 
 ## Optimizations:
