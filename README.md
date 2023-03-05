@@ -1,6 +1,6 @@
 # # SQLPortfolioProjects
 
-# Project: Cardiovascular Risk Assessment
+# Project: Cardiovascular Risk Analysis
 
 **Link to project:** https://github.com/chantelspicer/SASPortfolioProjects
 
