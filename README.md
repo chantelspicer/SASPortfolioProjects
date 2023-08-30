@@ -1,5 +1,3 @@
-# # SQLPortfolioProjects
-
 # Project: Cardiovascular Risk Analysis
 
 **Link to project:** https://github.com/chantelspicer/SASPortfolioProjects
@@ -10,9 +8,9 @@
 
 ## How It's Made:
 
-The Cardiovascular Risk Assessment project was a capstone-type project completed after receiving a certification in SAS Programming. After reviewing multiple datasets on Kaggle, I chose a dataset that contained statistics concerning the risk factors that lead to cardiovascular disease. This dataset was chosen as it had a high usability score relative to completeness, credibility, compatibility, and contained the most up-to-date cardiovascular information to analyze SAS programming. 
+The Cardiovascular Risk Assessment project was a capstone-type project completed after receiving a certification in SAS Programming. After reviewing multiple datasets on Kaggle, I chose a dataset that contained statistics concerning the risk factors that lead to cardiovascular disease. This dataset was selected as it had a high usability score relative to completeness, credibility, compatibility, and contained the most up-to-date cardiovascular information to analyze SAS programming. 
 
-Once the datasets were downloaded in Excel, I imported the dataset into SAS Studio and created a library using a libname statement to connect to the Excel workbook. My task was then to write syntax through procedures, statements, functions, and steps that would represent the dataset accurately to explore the correlation between various cardiovascular disease risk factors (e.g., blood pressure, fasting blood sugar, cholesterol, and pain). To culminate, I created graphics to provide a visual representation for external stakeholders.
+Once the datasets were downloaded in Excel, I imported the dataset into SAS Studio and created a library using a libname statement to connect to the Excel workbook. My task was to write syntax through procedures, statements, functions, and steps that would represent the dataset accurately to explore the correlation between various cardiovascular disease risk factors (e.g., blood pressure, fasting blood sugar, cholesterol, and pain). To culminate, I created graphics to provide a visual representation for external stakeholders.
 
 ## Optimizations:
 
@@ -20,7 +18,7 @@ Working on my cardiovascular disease project allowed me to gain valuable insight
 
 ## Lessons Learned:
 
-An important lesson I learned was the significance of naming conventions, particularly while importing Excel data into SAS. Initially, the column names were not properly named, which caused confusion and difficulties in writing syntax. To resolve this, I had to use the label function to rename the columns, which made it easier to work with the data. However upon reflection, it would have been more efficient to rename the columns within Excel, thus the columns would have been imported to their appropriate column names in SAS. I also learned about the importance of data cleaning, as the dataset contained some missing values and outliers that needed to be addressed before starting the analysis. Overall, these lessons helped me to optimize my data analysis process, improved my analytical skills, and produced more accurate results.
+An important lesson I learned was the significance of naming conventions, mainly while importing Excel data into SAS. Initially, the column names were not properly named, which caused confusion and difficulties in writing syntax. To resolve this, I had to use the label function to rename the columns, which made it easier to work with the data. However upon reflection, it would have been more efficient to rename the columns within Excel, thus the columns would have been imported to their appropriate column names in SAS. I also learned about the importance of data cleaning, as the dataset contained some missing values and outliers that needed to be addressed before starting the analysis. Overall, these lessons helped me to optimize my data analysis process, improve my analytical skills, and produce more accurate results.
 
 ## Examples:
 
